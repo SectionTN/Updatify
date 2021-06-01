@@ -9,6 +9,6 @@ public class UpdatifyActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        //throw new UnsupportedJudgeExpression(":/");
+        //throw new UnsupportedJudgeException(":/");
     }
 }
